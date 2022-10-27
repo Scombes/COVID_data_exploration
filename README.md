@@ -15,7 +15,7 @@ I downloaded the COVID-19 data set provided by [Our World In Data](https://ourwo
 - The United States has the most deaths per country cumulatively at 1,068,214. In comparison, Peru has the most deaths per million at 6,454.
 - 64% of the world is fully vaccinated.
 - Countries with higher GDP Per Capita were harder hit by the virus. This could be skewed because poorer countries reporting was irregular.
-- The overall trend in cases and deaths since the 2022-Q2 has been downward.
+- The overall trend in cases and deaths since 2022-Q2 has been downward.
 
 ### Tableau:
 Using the results of the data exploration, I created an interactive dashboard that lets you visually explore the data results.  
