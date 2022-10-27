@@ -7,7 +7,7 @@ I downloaded the COVID-19 data set provided by [Our World In Data](https://ourwo
 1. Explored the data using Microsoft Excel.
 2. Divided the data into three logical tables and removed unnecessary data.
 3. Prepared/Cleaned that data to make it ready to load into MYSQL Database.
-4. Used a variety of queries and commands to explore the data further and find insights.
+4. Used a variety of queries and commands to explore the data further and find insights. [View MYSQL Queries](https://github.com/Scombes/COVID_data_exploration/blob/main/data_exploration.sql)
 5. Used query results to create visuals in Tableau.
 
 ### Takeaways:
