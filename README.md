@@ -3,6 +3,8 @@
 
 I downloaded the COVID-19 data set provided by [Our World In Data](https://ourworldindata.org/coronavirus) for this project.
 
+[View Tableau Dashboard](https://tabsoft.co/3Fiuh8w)
+
 ### Process:
 1. Explored the data using Microsoft Excel.
 2. Divided the data into three logical tables and removed unnecessary data.
