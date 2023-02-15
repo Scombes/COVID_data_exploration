@@ -1,25 +1,28 @@
 # COVID-19 Data Exploration
 ## Using data from Our World In Data and MYSQL to explore and discover trends.
 
-I downloaded the COVID-19 data set provided by [Our World In Data](https://ourworldindata.org/coronavirus) for this project.
+###Project Overview:
+For this project, I conducted an exploratory data analysis using the COVID-19 data set provided by Our World In Data, with the objective of identifying trends and insights.
 
 [View Tableau Dashboard](https://tabsoft.co/3Fiuh8w)
 
-### Process:
-1. Explored the data using Microsoft Excel.
-2. Divided the data into three logical tables and removed unnecessary data.
-3. Prepared/Cleaned that data to make it ready to load into MYSQL Database.
-4. Used a variety of queries and commands to explore the data further and find insights. [View MYSQL Queries](https://github.com/Scombes/COVID_data_exploration/blob/main/data_exploration.sql)
-5. Used query results to create visuals in Tableau.
 
-### Takeaways:
-- 2022-Q1 was the worst quarter for COVID-19. This is most likely due to the Omicron variant. There was a 266% change in cases from 2021-Q4 to 2022-Q1.
-- The United States has the most deaths per country cumulatively at 1,068,214. In comparison, Peru has the most deaths per million at 6,454.
+###Data Processing:
+The data set was initially explored using Microsoft Excel, and was then divided into three logical tables, with unnecessary data removed. Following this, the data was cleaned and prepared for loading into a MYSQL Database. 
+
+###Data Exploration:
+A variety of queries and commands were used to explore the data further, with the results utilized to create insightful visualizations in Tableau. [View MYSQL Queries](https://github.com/Scombes/COVID_data_exploration/blob/main/data_exploration.sql)
+
+
+### Key Findings:
+- The first quarter of 2022 was the worst quarter for COVID-19, likely due to the emergence of the Omicron variant, with a 266% increase in cases compared to the previous quarter. 
+- The United States had the highest number of cumulative deaths at 1,068,214, while Peru had the highest number of deaths per million at 6,454. 
 - 64% of the world is fully vaccinated.
-- Countries with higher GDP Per Capita were harder hit by the virus. This could be skewed because poorer countries reporting was irregular.
-- The overall trend in cases and deaths since 2022-Q2 has been downward.
+- Countries with higher GDP per capita were more severely impacted by the virus, although this could be skewed due to irregular reporting in poorer countries. 
+- The overall trend in cases and deaths since the second quarter of 2022 has been downward.
+
 
 ### Tableau:
-Using the results of the data exploration, I created an interactive dashboard that lets you visually explore the data results.  
+To aid in the exploration and communication of the findings, I created an interactive Tableau dashboard that provides easy-to-understand and visually appealing representations of the data.
 
 [View Tableau Dashboard](https://tabsoft.co/3Fiuh8w)
