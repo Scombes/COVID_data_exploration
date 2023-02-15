@@ -1,16 +1,16 @@
 # COVID-19 Data Exploration
 ## Using data from Our World In Data and MYSQL to explore and discover trends.
 
-###Project Overview:
+### Project Overview:
 For this project, I conducted an exploratory data analysis using the COVID-19 data set provided by Our World In Data, with the objective of identifying trends and insights.
 
 [View Tableau Dashboard](https://tabsoft.co/3Fiuh8w)
 
 
-###Data Processing:
+### Data Processing:
 The data set was initially explored using Microsoft Excel, and was then divided into three logical tables, with unnecessary data removed. Following this, the data was cleaned and prepared for loading into a MYSQL Database. 
 
-###Data Exploration:
+### Data Exploration:
 A variety of queries and commands were used to explore the data further, with the results utilized to create insightful visualizations in Tableau. [View MYSQL Queries](https://github.com/Scombes/COVID_data_exploration/blob/main/data_exploration.sql)
 
 
